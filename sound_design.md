@@ -8,19 +8,19 @@ permalink: /sound_design/
 I do Sound Design and original compositions for Theatre.
 
 ## Samples
-
-I like to sample source material into warped tracks, like these:
+I like to mangle sampled source material into warped tracks, like these:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/320386297&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
+## Instrumental
 I also make original musical pieces and soundscapes, like this:
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/244793385&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+## Aggro
 But, if I had my way, I'd spend most days making stuff that sounds like this:
 <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/320385434&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
 
 ## Reel
-
 Here are some pieces I made set to images of shows they're from:
 <iframe src="https://player.vimeo.com/video/78364567" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
