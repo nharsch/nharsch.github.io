@@ -5,7 +5,13 @@ permalink: /sound_design/
 ---
 
 
-I do Sound Design and original compositions for Theatre.
+I do Sound Design and original compositions for Theatre and Film.
+
+## Film
+I provided an original score, sound design and final sound mix for this short film:
+
+<iframe src="https://player.vimeo.com/video/410667586" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/410667586">Lunar Cadence</a> from <a href="https://vimeo.com/user9461241">Nigel Harsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Samples
 I like to mangle sampled source material into warped tracks, like these:
@@ -13,19 +19,12 @@ I like to mangle sampled source material into warped tracks, like these:
 
 ## Instrumental
 I also make original musical pieces and soundscapes, like this:
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/244793385&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1157031211&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nigelharsch" title="nigelharsch" target="_blank" style="color: #cccccc; text-decoration: none;">nigelharsch</a> · <a href="https://soundcloud.com/nigelharsch/sets/sound-design-reel" title="Instrumentals" target="_blank" style="color: #cccccc; text-decoration: none;">Instrumentals</a></div>
 
-## Aggro
-But, if I had my way, I'd spend most days making stuff that sounds like this:
-<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/320385434&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+## History
 
-
-## Reel
-Here are some pieces I made set to images of shows they're from:
-<iframe src="https://player.vimeo.com/video/78364567" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-## Show History
+### 2020
+- [Lunar Chadence](https://vimeo.com/410667586), Composer, Sound Designer and Sound Mixer - Directed by Joe Giovannetti
 
 ### 2017
 - [Measure for Measure](http://www.thenightshifttheatre.org/measure-for-measure), [The Night Shift Theatre](http://www.thenightshifttheatre.org/) - Sound Designer and Composer - Directed by Jonathan Minton
