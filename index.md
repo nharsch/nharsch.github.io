@@ -11,6 +11,12 @@ title: Programming
 
 ## Public Projects
 
+### [Waveblocker](/waveblocker/index.html)
+
+Sing colors. Uses ml5.js, p5.js with clojurescript.
+
+[source](https://github.com/nharsch/waveblocker)
+
 ### [Suburban Random Name Generator](/suburban_name_generator)
 
 Simple SPA to generate Chicagoland Suburb names, built with vanilla JS.
