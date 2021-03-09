@@ -11,7 +11,7 @@ title: Programming
 
 ## Public Projects
 
-### [Waveblocker](/waveblocker/index.html)
+### [Waveblocker](/waveblocker/target/index.html)
 
 Sing colors. Uses ml5.js, p5.js with clojurescript.
 
