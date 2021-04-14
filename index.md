@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sound Design
-permalink: /sound_design/
 ---
 
 <!-- TODO freshen up -->
