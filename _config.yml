@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nigel Harsch - Sound Designer | Media Composer | Web Developer
+title: NIGEL HARSCH Media Composer Sound Designer
 email: nigelharsch@gmail.com
-description: CV for Nigel Harsch, sound designer and web developer.
+description: I make sound and music for media. I specialize in pieces that blur the line between sound design, ambience and musical score.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
