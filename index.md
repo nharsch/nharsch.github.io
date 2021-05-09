@@ -2,7 +2,6 @@
 layout: default
 title: Sound Design
 ---
-
 # Music Licensing
 
 You can license my music for your project on [Pond5](https://www.pond5.com/artist/nigelharsch)
@@ -73,8 +72,5 @@ I provided an original score, sound design and final sound mix for this short fi
 - Panther Burn, [MPAACT](http://mpaact.org/) - Sound Designer - Directed by Andrea Dymond
 - Kiwi Black, North Park University - Sound Designer - Directed by Shepsu Aaku
 - Full Circle, North Park University - Sound Designer and Music Supervisor - Directed by John Berry
-
-[Soundcloud](https://soundcloud.com/nigelharsch)
-
 
 
