@@ -6,22 +6,24 @@ title: Sound Design
 
 You can license my music for your project on [Pond5](https://www.pond5.com/artist/nigelharsch)
 
-# Demo Reel
+# Demo Reels
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1240028221&color=%230a0906&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nigelharsch" title="nigelharsch" target="_blank" style="color: #cccccc; text-decoration: none;">nigelharsch</a> · <a href="https://soundcloud.com/nigelharsch/sets/media-composer-reel" title="Media Composer Reel" target="_blank" style="color: #cccccc; text-decoration: none;">Media Composer Reel</a></div>
+## Orchestral
+I make traditional and orchestral scores...
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1297639708&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nigelharsch" title="nigelharsch" target="_blank" style="color: #cccccc; text-decoration: none;">nigelharsch</a> · <a href="https://soundcloud.com/nigelharsch/sets/orchestral" title="Orchestral - Piano - Hybrid" target="_blank" style="color: #cccccc; text-decoration: none;">Orchestral</a></div>
+<br>
 
-# Film
-<!-- TODO freshen up -->
-I provided an original score, sound design and final sound mix for this short film:
-
-<iframe src="https://player.vimeo.com/video/410667586" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/410667586">Lunar Cadence</a> from <a href="https://vimeo.com/user9461241">Nigel Harsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+## Experimental
+...As well as more experimental, electronic and ambient work:
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1297657894&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nigelharsch" title="nigelharsch" target="_blank" style="color: #cccccc; text-decoration: none;">nigelharsch</a> · <a href="https://soundcloud.com/nigelharsch/sets/experimental-ambient-weird" title="Experimental - Ambient - Weird" target="_blank" style="color: #cccccc; text-decoration: none;">Experimental</a></div>
+<br>
 
 # History
 
 ### 2020
 - [Lunar Cadence](https://vimeo.com/410667586), Composer, Sound Designer and Sound Mixer - Directed by Joe Giovannetti
+<iframe src="https://player.vimeo.com/video/410667586/#t=11:30" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/410667586">Lunar Cadence</a> from <a href="https://vimeo.com/user9461241">Nigel Harsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### 2018
 - [Ghosts and Zombies](https://www.chicagonordic.org/ghostsandzombies), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Breahan Eve Pautsch
