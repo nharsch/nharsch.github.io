@@ -42,12 +42,10 @@ I make traditional and orchestral scores...
 ### 2012
 - Better, [Bartleby Productions](https://enjoybartleby.wordpress.com/) - Sound Designer - Directed by Kristina Carr
 - Four Women,  Collaboraction - Sound Designer and SBO - Directed by Patrese McClain
-- To Damascus, North Park University - Sound Designer and Composer - Directed by Chad Eric Bergman
 - [Kokkola](https://www.chicagonordic.org/kokkola), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
 
 ### 2011
 - [Red and Green](https://www.chicagonordic.org/red-and-green), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
-- Lilith, North Park University - Sound Designer - Directed by Chad Eric Bergman
 - Hideous Progeny, North Park University - Sound Designer - Directed by Jessica Hutchinson
 
 ### 2010
@@ -59,11 +57,9 @@ I make traditional and orchestral scores...
 - Stage Black, [MPAACT](http://mpaact.org/) - Sound Designer - Directed by Mignon McPherson Nance
 
 ### 2008
-- Stain, North Park University - Sound Designer and Composer - Directed by Jennifer Montgomery
 - Threepenny Opera, [The Hypocrites](https://www.the-hypocrites.com/) - Assistant Sound Design and SBO - Directed by Sean Greaney
 - Seven Days, [Steep Theatre Co.](http://steeptheatre.com/) - Sound Designer and Composer - Directed by Jim Poole
 - Dave Davinci Saves the Universe, [The House](http://www.thehousetheatre.com/) - Assistant Sound Design - Directed by Nathan Allen
-- Archangels Don’t Play Pinball, North Park University - Sound Designer - Directed by Mignon McPherson Nance
 
 ### 2007
 - Trouble the Water, [MPAACT](http://mpaact.org/)- Sound Designer - Directed by Mignon McPherson Nance
