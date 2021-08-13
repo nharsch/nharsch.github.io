@@ -2,8 +2,11 @@
 layout: default
 title: Sound Design
 ---
-# Music Licensing
 
+# Bio
+I make music and sound for film, theatre, video games, and all other immersive media.
+
+# Music Licensing
 You can license my music for your project on [Pond5](https://www.pond5.com/artist/nigelharsch)
 
 # Demo Reels
@@ -34,6 +37,9 @@ I make traditional and orchestral scores...
 ### 2016
 - [A Day in the Death of Joe Egg](http://www.thenightshifttheatre.org/joe-egg), [The Night Shift Theatre](http://www.thenightshifttheatre.org/) - Sound Designer - Directed by Christina Ashby
 - [Nothing of Me](https://www.chicagonordic.org/nothing-of-me), [Aakvavit Theatre](http://www.akvavittheatre.org/), Sound Designer and Composer - Directed by Chad Eric Bergman & Breahan Eve Pautsch
+
+## 2015
+- [Androgyny - NYU Super Love Game Jam Winner](https://gamejolt.com/games/androgyny/28572) - Sound Designer
 
 ### 2013
 - [Winter](https://www.chicagonordic.org/gjenganger-3-plays-by-jon-fosse), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Paul Holmquist
