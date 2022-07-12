@@ -3,11 +3,22 @@ title: Programming
 permalink: /programming/
 ---
 
-# Resume
+# Programming Resume
 
-[View My Resume](https://github.com/nharsch/resume/blob/master/README.md)
+[View My Resume](https://github.com/nharsch/resume/blob/master/programming-resume.md)
 
-[Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch_Resume.pdf)
+[Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-programming.pdf)
+
+# Skills
+- Python
+- Django, Django Oscar, Django Wagtail, Django Rest Framework
+- Javascript, TypeScript, React, Redux, React Native
+- SQL, PostgresQL
+- Docker
+- AWS, Terraform
+- Clojure, Clojurescript, Reframe
+- C# for Unity
+- C for Arduino
 
 # Public Projects
 

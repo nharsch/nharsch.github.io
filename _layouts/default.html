@@ -19,7 +19,14 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>
+            {% if page.title == "Programming" %}
+              {{ site.programming-description | default: site.github.project_tagline }}
+            {% endif %}
+            {% if page.title == "Sound Design" %}
+              {{ site.composer-description | default: site.github.project_tagline }}
+            {% endif %}
+        </p>
         <div class="contact-me">
             <p>Contact me: <a href="{{ site.email }}">{{ site. email }}</a><p>
         </div>

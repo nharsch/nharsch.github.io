@@ -6,6 +6,8 @@ title: Sound Design
 # Bio
 I make music and sound for film, theatre, video games, and all other immersive media.
 
+[Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-sound.pdf)
+
 # Music Licensing
 You can license my music for your project on [Pond5](https://www.pond5.com/artist/nigelharsch)
 

@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Nigel Harsch
 email: nigelharsch@gmail.com
-description: Media Composer, Sound Designer, crafter of Total Sonic Environments
-
+composer-description: Media Composer, Sound Designer, crafter of Total Sonic Environments
+programmer-description: Backend focused Full Stack Web Developer, ecommerce and media
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
