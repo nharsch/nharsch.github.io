@@ -11,7 +11,9 @@ permalink: /programming/
 
 # Intro
 
-I"m a backend focused full stack web developer, well versed in Python, Django, Typescript and React. I'm also a Clojure/script enthusiast, Video Game Sound Design instructor and sometimes Media Composer.
+I'm a backend focused full stack web developer, well versed in Python, Django, Typescript and React. 
+
+I'm also a Clojure/script enthusiast, Video Game Sound Design instructor and sometimes Media Composer.
 
 # Skills
 - Python
