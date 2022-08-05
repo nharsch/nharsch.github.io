@@ -9,6 +9,10 @@ permalink: /programming/
 
 [Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-programming.pdf)
 
+# Intro
+
+I"m a backend focused full stack web developer, well versed in Python, Django, Typescript and React. I'm also a Clojure/script enthusiast, Video Game Sound Design instructor and sometimes Media Composer.
+
 # Skills
 - Python
 - Django, Django Oscar, Django Wagtail, Django Rest Framework
@@ -20,16 +24,18 @@ permalink: /programming/
 - C# for Unity
 - C for Arduino
 
-# Public Projects
+# Projects
 
-## [Waveblocker](/waveblocker/public/index.html)
-
-Sing colors. Uses ml5.js, p5.js with clojurescript.
+## Waveblocker
+[live](/waveblocker/public/index.html)
 
 [source](https://github.com/nharsch/waveblocker)
 
-## [Suburban Random Name Generator](/suburban_name_generator)
+A browser based paint app where the user changes colors by singing.  Uses Web Audio APIs, ml5.js, p5.js with Clojurescript.
 
-Simple SPA to generate Chicagoland Suburb names, built with vanilla JS.
 
-[source](https://github.com/nharsch/suburban_name_generator)
+## Monotron Duo + Arduino MIDI
+[source](https://github.com/nharsch/monotron-duo-midi/blob/main/README.md)
+
+Adding MIDI input to a toy synth with an Arduino. A fun introduction to micro controllers, C programming and MIDI.
+
