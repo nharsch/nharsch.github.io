@@ -20,8 +20,9 @@ programmer-description: Backend focused Full Stack Web Developer, ecommerce and 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
-twitter_username:
-github_username:  nharsch
+# twitter_username:
+linkedin: linkedin.com/in/nigelharsch
+github_username: nharsch
 
 # Build settings
 markdown: kramdown
