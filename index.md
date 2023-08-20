@@ -1,6 +1,5 @@
 ---
 title: Programming
-permalink: /programming/
 ---
 
 I'm a backend focused full stack web developer, most comfortable with Clojure + Clojurescript, Python, and Javascript.
