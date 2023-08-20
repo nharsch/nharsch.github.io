@@ -21,8 +21,10 @@ I also make [music](/music)
   - PostgreSQL
 - DevOps
   - Docker, AWS, Terraform, Azure, Linux/*nix, Bash Scripting
-- C# for Unity
-- C for Arduino
+- Interactive (for fun)
+  - p5.js
+  - C# for Unity
+  - C for Arduino
 
 # Values
 - Simple is better than complex
