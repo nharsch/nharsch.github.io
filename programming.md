@@ -3,10 +3,13 @@ title: Programming
 permalink: /programming/
 ---
 
-# Intro
-I'm a backend focused full stack web developer, well versed in Python, Django, Typescript and React.
+I'm a backend focused full stack web developer, most comfortable with Clojure + Clojurescript, Python, and Javascript.
 
-I'm also a Clojure/script enthusiast, Video Game Sound Design instructor and [Media Composer](/).
+I also make [music](/music)
+
+# Programming Resume
+- [View My Resume](https://github.com/nharsch/resume/blob/master/programming-resume.md)
+- [Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-programming.pdf)
 
 # Skills
 - Python
@@ -19,11 +22,13 @@ I'm also a Clojure/script enthusiast, Video Game Sound Design instructor and [Me
 - C# for Unity
 - C for Arduino
 
-# Programming Resume
-[View My Resume](https://github.com/nharsch/resume/blob/master/programming-resume.md)
-<br>[Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-programming.pdf)
+# Values
+- Simple is better than complex
+- Design code around the data, not the other way around
+- Document
 
 # Projects
+
 ## Waveblocker
 [live](/waveblocker/public/index.html)
 <br>[source](https://github.com/nharsch/waveblocker)
@@ -34,3 +39,23 @@ A browser based paint app where the user changes colors by singing.  Uses Web Au
 [source](https://github.com/nharsch/monotron-duo-midi/blob/main/README.md)
 
 Adding MIDI input to a toy synth with an Arduino. A fun introduction to micro controllers, C programming and MIDI.
+
+# Favorite books, talks and papers
+- [Simple Made Easy](https://www.youtube.com/watch?v=kGlVcSMgtV4)
+- [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+  - I'm currently on [Chapter 4](https://github.com/nharsch/SICP)
+- [Programming With Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
+- [The Nature of Code](https://natureofcode.com/)
+  - [My example exercises with Clojurescript and Quil](https://github.com/nharsch/nature_of_code)
+- [DevOps Demystified](https://youtu.be/h5E--QSBVBY)
+- [The Future of Programming](https://www.youtube.com/watch?v=kWS1i2tivi8)
+- [The Little Schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/)
+- [Clojure for the Brave and True](https://www.braveclojure.com/)
+- [Everything I Have Learned I Have Learned from Someone Else](https://www.youtube.com/watch?v=TVJa-V6U-XI)
+- [A Pattern language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+- [The Nature of Order](https://en.wikipedia.org/wiki/The_Nature_of_Order)
+- [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It)
+- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+- [The Web After Tomorrow](https://tonsky.me/blog/the-web-after-tomorrow/)
+- [The Dream Machine](https://press.stripe.com/the-dream-machine)
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
