@@ -2,7 +2,7 @@
 title: Programming
 ---
 
-I'm a backend focused full stack web developer, most comfortable with Clojure + Clojurescript, Python, and Javascript.
+I'm a data/backend focused full stack web developer, most comfortable with Clojure + Clojurescript, Python, and Javascript.
 
 I also make [music](/music)
 
@@ -13,54 +13,32 @@ I also make [music](/music)
 # Skills
 - Technical Product Management
 - Clojure, Clojurescript
-  - Reagent, Reframe, HoneySQL, Pathom
+  - HoneySQL, Reagent, Reframe, Pathom, Shadow-cljs
 - Javascript, TypeScript
-  - React, Redux, JSON Schema, Node
+  - React, Redux, JSON Schema, Node, Objection.js
 - Python
   - Django, Django Oscar, Django Wagtail, Django Rest Framework
 - SQL
   - PostgreSQL
 - DevOps
-  - Docker, AWS, Terraform, Azure, Linux/*nix, Bash Scripting
+  - Docker, AWS, Terraform, Azure
 - Interactive (for fun)
   - p5.js
   - C# for Unity
   - C for Arduino
-
-# Values
-- Simple is better than complex
-- Design code around the data, not the other way around
-- Data should map onto the real world
-- Document all the things
-- Chose tools that allow for faster iteration
-  - [Making Smaller Circles](https://theartoflearningproject.org/resources/advanced-learning/make-smaller-circles/)
-
-# Projects
-
-## Waveblocker
-[live](/waveblocker/public/index.html)
-<br>[source](https://github.com/nharsch/waveblocker)
-
-A browser based paint app where the user changes colors by singing.  Uses Web Audio APIs, ml5.js, p5.js with Clojurescript.
-
-## Monotron Duo + Arduino MIDI
-[source](https://github.com/nharsch/monotron-duo-midi/blob/main/README.md)
-
-Adding MIDI input to a toy synth with an Arduino. A fun introduction to micro controllers, C programming and MIDI.
 
 # Favorite books, talks and papers
 - [Simple Made Easy](https://www.youtube.com/watch?v=kGlVcSMgtV4)
 - [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
   - I'm currently on [Chapter 4](https://github.com/nharsch/SICP)
 - [Programming With Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
-- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 - [The Nature of Code](https://natureofcode.com/)
   - [My example exercises with Clojurescript and Quil](https://github.com/nharsch/nature_of_code)
 - [DevOps Demystified](https://youtu.be/h5E--QSBVBY)
+- [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 - [Operations Management: Process and Supply Chains](https://www.amazon.com/Operations-Management-Processes-Supply-Chains/dp/0134741064)
 - [The Future of Programming](https://www.youtube.com/watch?v=kWS1i2tivi8)
 - [The Little Schemer](https://mitpress.mit.edu/9780262560993/the-little-schemer/)
-- [Clojure for the Brave and True](https://www.braveclojure.com/)
 - [Everything I Have Learned I Have Learned from Someone Else](https://www.youtube.com/watch?v=TVJa-V6U-XI)
 - [The Art of Learning](https://www.joshwaitzkin.com/the-art-of-learning)
 - [A Pattern language](https://en.wikipedia.org/wiki/A_Pattern_Language)
