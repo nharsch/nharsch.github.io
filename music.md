@@ -31,29 +31,29 @@ I make traditional and orchestral scores...
 <p><a href="https://vimeo.com/410667586">Lunar Cadence</a> from <a href="https://vimeo.com/user9461241">Nigel Harsch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### 2018
-- [Ghosts and Zombies](https://www.chicagonordic.org/ghostsandzombies), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Breahan Eve Pautsch
+- [Ghosts and Zombies](https://www.chicagonordic.org/ghostsandzombies), [Akvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Breahan Eve Pautsch
 
 ### 2017
 - [Measure for Measure](http://www.thenightshifttheatre.org/measure-for-measure), [The Night Shift Theatre](http://www.thenightshifttheatre.org/) - Sound Designer and Composer - Directed by Jonathan Minton
 
 ### 2016
 - [A Day in the Death of Joe Egg](http://www.thenightshifttheatre.org/joe-egg), [The Night Shift Theatre](http://www.thenightshifttheatre.org/) - Sound Designer - Directed by Christina Ashby
-- [Nothing of Me](https://www.chicagonordic.org/nothing-of-me), [Aakvavit Theatre](http://www.akvavittheatre.org/), Sound Designer and Composer - Directed by Chad Eric Bergman & Breahan Eve Pautsch
+- [Nothing of Me](https://www.chicagonordic.org/nothing-of-me), [Akvavit Theatre](http://www.akvavittheatre.org/), Sound Designer and Composer - Directed by Chad Eric Bergman & Breahan Eve Pautsch
 
 ## 2015
 - [Androgyny - NYU Super Love Game Jam Winner](https://gamejolt.com/games/androgyny/28572) - Sound Designer
 
 ### 2013
-- [Winter](https://www.chicagonordic.org/gjenganger-3-plays-by-jon-fosse), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Paul Holmquist
-- Autumn, [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Breahan Eve Pautsch
+- [Winter](https://www.chicagonordic.org/gjenganger-3-plays-by-jon-fosse), [Akvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer and Composer - Directed by Paul Holmquist
+- Autumn, [Akvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Breahan Eve Pautsch
 
 ### 2012
 - Better, [Bartleby Productions](https://enjoybartleby.wordpress.com/) - Sound Designer - Directed by Kristina Carr
 - Four Women,  Collaboraction - Sound Designer and SBO - Directed by Patrese McClain
-- [Kokkola](https://www.chicagonordic.org/kokkola), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
+- [Kokkola](https://www.chicagonordic.org/kokkola), [Akvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
 
 ### 2011
-- [Red and Green](https://www.chicagonordic.org/red-and-green), [Aakvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
+- [Red and Green](https://www.chicagonordic.org/red-and-green), [Akvavit Theatre](http://www.akvavittheatre.org/) - Sound Designer - Directed by Chad Eric Bergman
 - Hideous Progeny, North Park University - Sound Designer - Directed by Jessica Hutchinson
 
 ### 2010
