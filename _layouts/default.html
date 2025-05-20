@@ -91,15 +91,14 @@
         const canvas = document.getElementById('rule30-canvas');
         const ctx = canvas.getContext('2d');
         const cellSize = 10;
-        const fps = 3;
+        const fps = 5;
         const maxRows = canvas.height / cellSize;
         const numCells = Math.floor(canvas.width / cellSize);
 
         // Initialize grid with a single cell in the middle
         let grid = [];
         const initialRow = Array(numCells).fill(0);
-        // initialRow[Math.floor(numCells / 2)] = 1;
-        initialRow[0] = 1;
+        initialRow[Math.floor(numCells / 2)] = 1;
         grid.push(initialRow);
 
         // Rule 30: determine next state based on neighborhood
