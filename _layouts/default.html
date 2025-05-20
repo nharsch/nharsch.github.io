@@ -10,11 +10,23 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .rule30-container {
+        /* position: fixed; */
+        /* bottom: 20px; */
+        /* right: 10px; */
+        z-index: 100;
+        transition: opacity 0.3s ease;
+      }
+
+      #rule30-canvas {
+        opacity: 0.15;
+      }
+    </style>
   </head>
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <h2><a href="{{ "/music" | absolute_url }}">composer</a> - <a href="{{ "/" | absolute_url }}">programmer</a></h2>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -37,17 +49,20 @@
                 <br><a href="https:soundcloud.com/nigelharsch">soundcloud</a>
             {% endif %}
         </div>
+        <div class="rule30-container"> <canvas id="rule30-canvas" width="270" height="1000"></canvas> </div>
       </header>
       <section>
 
       {{ content }}
 
+
       </section>
       <footer>
+
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -61,5 +76,84 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+    // rule 30 easter egg
+      (function() {
+        // Configuration
+        console.log("Rule 30 animation started")
+        const canvas = document.getElementById('rule30-canvas');
+        const ctx = canvas.getContext('2d');
+        const cellSize = 10;
+        const fps = 2; // 2 iterations per second
+        const maxRows = canvas.height / cellSize;
+        const numCells = Math.floor(canvas.width / cellSize);
+
+        // Initialize grid with a single cell in the middle
+        let grid = [];
+        const initialRow = Array(numCells).fill(0);
+        initialRow[Math.floor(numCells / 2)] = 1;
+        grid.push(initialRow);
+
+        // Rule 30: determine next state based on neighborhood
+        function applyRule30(left, center, right) {
+          const pattern = (left << 2) | (center << 1) | right;
+          // Rule 30: 00011110 in binary (30 in decimal)
+          return (30 >> pattern) & 1;
+        }
+
+        // Draw a single row of the grid
+        function drawRow(row, rowIndex) {
+          row.forEach((cell, cellIndex) => {
+            ctx.fillStyle = cell === 1 ? 'black' : 'transparent';
+            ctx.fillRect(
+              cellIndex * cellSize,
+              rowIndex * cellSize,
+              cellSize,
+              cellSize
+            );
+          });
+        }
+
+        // Clear the canvas and reset
+        function resetAnimation() {
+          ctx.clearRect(0, 0, canvas.width, canvas.height);
+          grid = [initialRow.slice()]; // Clone the initial row
+          drawRow(grid[0], 0);
+        }
+
+        // Initial draw
+        drawRow(grid[0], 0);
+
+        // Animation loop
+        function update() {
+          if (grid.length >= maxRows) {
+            // resetAnimation();
+          } else {
+            const lastRow = grid[grid.length - 1];
+            const newRow = lastRow.map((_, i) => {
+              const left = i === 0 ? 0 : lastRow[i - 1];
+              const center = lastRow[i];
+              const right = i === lastRow.length - 1 ? 0 : lastRow[i + 1];
+              return applyRule30(left, center, right);
+            });
+
+            grid.push(newRow);
+            drawRow(newRow, grid.length - 1);
+          }
+        }
+
+        // Start animation
+        const intervalId = setInterval(update, 1000 / fps);
+
+        // Optional: Stop animation when the tab is not visible to save resources
+        document.addEventListener('visibilitychange', function() {
+          if (document.hidden) {
+            clearInterval(intervalId);
+          } else {
+            setInterval(update, 1000 / fps);
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
