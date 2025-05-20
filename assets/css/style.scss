@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+    font-size: 1.2rem;
+}
+
 body::after {
-    z-index: -1;
+    // z-index: -1;
     content: "";
-    position: fixed;
+    // position: fixed;
     left: 0;
     top: 0;
     width: 100%;

@@ -11,16 +11,23 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <style>
-      .rule30-container {
-        /* position: fixed; */
-        /* bottom: 20px; */
-        /* right: 10px; */
-        z-index: 100;
-        transition: opacity 0.3s ease;
-      }
+      @media screen and (min-width: 960px) {
+        .rule30-container {
+          /* position: fixed; */
+          /* bottom: 20px; */
+          /* right: 10px; */
+          z-index: 100;
+          transition: opacity 0.3s ease;
+        }
 
-      #rule30-canvas {
-        opacity: 0.15;
+        #rule30-canvas {
+          opacity: 0.05;
+        }
+      }
+      @media screen and (max-width: 960px) {
+        .rule30-container {
+          display: none;
+        }
       }
     </style>
   </head>
@@ -49,7 +56,7 @@
                 <br><a href="https:soundcloud.com/nigelharsch">soundcloud</a>
             {% endif %}
         </div>
-        <div class="rule30-container"> <canvas id="rule30-canvas" width="270" height="1000"></canvas> </div>
+        <div class="rule30-container"> <canvas id="rule30-canvas" width="270" height="1200"></canvas> </div>
       </header>
       <section>
 
@@ -84,14 +91,15 @@
         const canvas = document.getElementById('rule30-canvas');
         const ctx = canvas.getContext('2d');
         const cellSize = 10;
-        const fps = 2; // 2 iterations per second
+        const fps = 3;
         const maxRows = canvas.height / cellSize;
         const numCells = Math.floor(canvas.width / cellSize);
 
         // Initialize grid with a single cell in the middle
         let grid = [];
         const initialRow = Array(numCells).fill(0);
-        initialRow[Math.floor(numCells / 2)] = 1;
+        // initialRow[Math.floor(numCells / 2)] = 1;
+        initialRow[0] = 1;
         grid.push(initialRow);
 
         // Rule 30: determine next state based on neighborhood
