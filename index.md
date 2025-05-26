@@ -19,9 +19,9 @@ I'm currently learning how to build tools to support Agentic AI to automate busi
 Though I'm familiar with most of the modern web stack, my strengths are in backend and data domains.
 
 ### Core Strengths
-- **Backend Architecture** - API design, data flow optimization
-- **Data Systems** - Stream processing, event sourcing, CQRS patterns
-- **Cross-functional Communication** - Translating between technical and business domains
+- **Backend Architecture and Data Systems** - API design, data flow optimization
+- **Technical Leadership** - Feature discover, scoping, tehcnical documentation, delegation, training
+- **Cross-functional Communication** - Translating between technical and business domains, teaching
 
 ### Proficienies
 - Clojure/ClojureScript - HoneySQL, Ring, Reagent, Reframe, Pathom, Shadow-cljs
@@ -48,6 +48,8 @@ Since I have a background in audio production, I tend to think of data problems 
 - Systems Thinking
 
 I'm also a big fan of Clojure and the Clojure community.
+
+I've also enjoyed teaching Sound Design for Theatre, and Sound Design for Video Games to undergraduates.
 
 ### Favorite Talks
 - [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4&t=3307s)
