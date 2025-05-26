@@ -2,12 +2,14 @@
 title: Programming
 ---
 
-
-
 ## Background
 I'm a data/backend focused full stack web developer, most comfortable with Clojure, Python, and Javascript.
 
-I began my career in the arts and media, working at fine arts galleries, an independent record label, live theatre, then a media distribution company. I started learning to code to [Automate the Boring Stuff](https://automatetheboringstuff.com/), which quickly led to a career as a Fullstack web Developer, then Data Engineer, now Technical Project Manager.
+I began my career in the arts and media, working at fine arts galleries, an independent record label, live theatre, then a media distribution company. I started learning to code to [Automate the Boring Stuff](https://automatetheboringstuff.com/), which quickly led to a career as a Fullstack web Developer, then Data Engineer, now Technical Project Manager. 
+
+I've owned a variety of high visibility projects, helping to scope, plan and deliver major features. I've developed several high visibility features for major ecommerce sites, as well as deep data engineering work for vital business processes. 
+
+I'm currently learning how to build tools to support Agentic AI to automate business processes for clients.
 
 ## Programming Resume
 - [View My Resume](https://github.com/nharsch/resume/blob/master/programming-resume.md)
@@ -16,45 +18,36 @@ I began my career in the arts and media, working at fine arts galleries, an inde
 ## My Skillset
 Though I'm familiar with most of the modern web stack, my strengths are in backend and data domains.
 
-- Technical Project Management
-  - Requirements gathering and product specifications
-  - Research
-  - Communication
-  - Leadership
-- Clojure, Clojurescript
-  - HoneySQL, Ring, Reagent, Reframe, Pathom, Shadow-cljs
-- Web Backend
-  - Python
-  - Django, Django Oscar, Django Wagtail, Django Rest Framework
-  - Rest APIs
-  - Linux
-- Web Frontend
-  - React, Redux, JSON Schema, Node, Objection.js, Knex, Vite
-- Data
-  - SQL
-  - SQS
-  - Kinesis
-  - Kafka
-  - Grafana
-  - ETL
-  - Jupyter
-  - D3.js
-- DevOps
-  - Docker
-  - AWS
-    - RDS
-    - ECS
-    - S3
-  - Terraform
-  - Gitlab CI
-  - Github Actions
-- Interactive (for fun)
-  - p5.js
-  - C# for Unity
-  - C for Arduino
-  - I also make [music](/music)
+### Core Strengths
+- **Backend Architecture** - API design, data flow optimization
+- **Data Systems** - Stream processing, event sourcing, CQRS patterns
+- **Cross-functional Communication** - Translating between technical and business domains
+
+### Proficienies
+- Clojure/ClojureScript - HoneySQL, Ring, Reagent, Reframe, Pathom, Shadow-cljs
+- Python - Django ecosystem (Oscar, Wagtail, DRF), data processing, automation, Jupyter notebooks
+- JavaScript/Node - React, Redux, modern tooling (Vite, etc.)
+- Data Engineering - ETL pipelines, Kafka, Kinesis, SQS
+- AWS - RDS, ECS, S3, infrastructure design
+- DevOps - Docker, Terraform, CI/CD (GitLab/GitHub Actions)
+- SQL - Complex queries, performance optimization, data modeling
+- Technical Project Management - Requirements gathering, stakeholder communication, delivery
+
+### Currently Learnng
+- Agentic AI Tools - Currently exploring for client automation
+- Data processing for AI - chunking, embedding, Jupyter notebooks 
+- Data Visualization & Reporting - Grafana, D3.js, Power BI, Metabase 
+- Creative Coding - p5.js, Unity/C#, Arduino/C
+
 
 ## Interests
+Since I have a background in audio production, I tend to think of data problems in terms of _signal flow_. I often reach for tools that fit this mental model, which has lead to an interest in:
+- Functional Reactive Programming
+- the Redux state pattern
+- CQRS, Event sourcing, stream processing
+- Systems Thinking
+
+I'm also a big fan of Clojure and the Clojure community.
 
 ### Favorite Talks
 - [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4&t=3307s)
