@@ -20,7 +20,7 @@ Though I'm familiar with most of the modern web stack, my strengths are in backe
 
 ### Core Strengths
 - **Backend Architecture and Data Systems** - API design, data flow optimization
-- **Technical Leadership** - Feature discover, scoping, tehcnical documentation, delegation, training
+- **Technical Leadership** - Feature discovery, scoping, technical documentation, delegation, training
 - **Cross-functional Communication** - Translating between technical and business domains, teaching
 
 ### Proficienies
@@ -34,7 +34,7 @@ Though I'm familiar with most of the modern web stack, my strengths are in backe
 - Technical Project Management - Requirements gathering, stakeholder communication, delivery
 
 ### Currently Learnng
-- Agentic AI Tools - Currently exploring for client automation
+- Agentic AI Tools - Currently exploring
 - Data processing for AI - chunking, embedding, Jupyter notebooks 
 - Data Visualization & Reporting - Grafana, D3.js, Power BI, Metabase 
 - Creative Coding - p5.js, Unity/C#, Arduino/C
