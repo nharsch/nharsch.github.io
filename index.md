@@ -51,6 +51,15 @@ I'm also a big fan of Clojure and the Clojure community.
 
 I've also enjoyed teaching Sound Design for Theatre, and Sound Design for Video Games to undergraduates.
 
+### Projects
+- [JSON Schema Form Builder](https://github.com/Cedar-Pine-Consulting/json-form-builder)
+  - Drag and Drop visual form builder application, based on top of [RJSF](https://github.com/rjsf-team/react-jsonschema-form)
+  - Demo version of app built for LA based non profit for Cedar Pine Consulting, where I was Principle Architect
+- [Mkdocs Semantic Search](https://github.com/nharsch/mkdocs-semantic-search/tree/main)
+  - Implements semantic search for [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) using [transormers.js](https://huggingface.co/docs/transformers.js/en/index)
+- [CSV -> Mermaid ERD Generator](https://github.com/nharsch/mermaid-erd-generator)
+  - Data forensics tool for recunstructing data schemas and relationships based on data dumps
+
 ### Favorite Talks
 - [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4&t=3307s)
 - [Programming With Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
