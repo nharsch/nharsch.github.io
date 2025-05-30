@@ -52,7 +52,7 @@ I'm also a big fan of Clojure and the Clojure community.
 I've also enjoyed teaching Sound Design for Theatre, and Sound Design for Video Games to undergraduates.
 
 ### Projects
-- [JSON Schema Form Builder](https://github.com/Cedar-Pine-Consulting/json-form-builder)
+- JSON Schema Form Builder: [demo](https://cedar-pine-consulting.github.io/json-form-builder/) - [repo](https://github.com/Cedar-Pine-Consulting/json-form-builder)
   - Drag and Drop visual form builder application, based on top of [RJSF](https://github.com/rjsf-team/react-jsonschema-form)
   - Demo version of app built for LA based non profit for Cedar Pine Consulting, where I was Principle Architect
 - [Mkdocs Semantic Search](https://github.com/nharsch/mkdocs-semantic-search/tree/main)
