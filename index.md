@@ -33,12 +33,6 @@ Though I'm familiar with most of the modern web stack, my strengths are in backe
 - SQL - Complex queries, performance optimization, data modeling
 - Technical Project Management - Requirements gathering, stakeholder communication, delivery
 
-### Currently Learnng
-- Agentic AI Tools - Currently exploring
-- Data processing for AI - chunking, embedding, Jupyter notebooks 
-- Data Visualization & Reporting - Grafana, D3.js, Power BI, Metabase 
-- Creative Coding - p5.js, Unity/C#, Arduino/C
-
 
 ## Interests
 Since I have a background in audio production, I tend to think of data problems in terms of _signal flow_. I often reach for tools that fit this mental model, which has lead to an interest in:
@@ -51,21 +45,34 @@ I'm also a big fan of Clojure and the Clojure community.
 
 I've also enjoyed teaching Sound Design for Theatre, and Sound Design for Video Games to undergraduates.
 
+I also make [music](/music)
+
 ### Projects
-- JSON Schema Form Builder: [demo](https://cedar-pine-consulting.github.io/json-form-builder/) - [repo](https://github.com/Cedar-Pine-Consulting/json-form-builder)
+- JSON Schema Form Builder: [demo](https://cedar-pine-consulting.github.io/json-form-builder/) - [repo](https://github.com/Cedar-Pine-Consulting/json-form-builder  )
   - Drag and Drop visual form builder application, based on top of [RJSF](https://github.com/rjsf-team/react-jsonschema-form)
   - Demo version of app built for LA based non profit for Cedar Pine Consulting, where I was Principle Architect
 - [Mkdocs Semantic Search](https://github.com/nharsch/mkdocs-semantic-search/tree/main)
   - Implements semantic search for [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) using [transormers.js](https://huggingface.co/docs/transformers.js/en/index)
 - [CSV -> Mermaid ERD Generator](https://github.com/nharsch/mermaid-erd-generator)
-  - Data forensics tool for recunstructing data schemas and relationships based on data dumps
+  - Data forensics tool for recunstructing data schemas and relationships based on CSV data dumps
+  
 
-### Favorite Talks
+### Currently Learnng / Exploring
+- AI workflows and agents
+- Data Visualization & Reporting 
+  - Grafana, D3.js, Power BI, Metabase 
+- Stream Processing
+  - [Rama](https://redplanetlabs.com/learn-rama)
+- Local First Web Apps
+  - [Instant DB](https://www.instantdb.com/)
+  - [Ink and Switch](https://www.inkandswitch.com/)
+- Creative Coding - p5.js, Unity/C#, Arduino/C
+
+### Favorite Books and Talks
 - [Simple Made Easy](https://www.youtube.com/watch?v=SxdOUGdseq4&t=3307s)
 - [Programming With Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
 - [The Future of Programming](https://www.youtube.com/watch?v=kWS1i2tivi8)
-
-### Favorite Books and Talks
+- [The Web After Tomorrow](https://tonsky.me/blog/the-web-after-tomorrow/)
 - [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
   - I'm currently on [Chapter 4](https://github.com/nharsch/SICP)
 - [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
