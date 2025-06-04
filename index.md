@@ -24,7 +24,7 @@ Though I'm familiar with most of the modern web stack, my strengths are in backe
 - **Cross-functional Communication** - Translating between technical and business domains, teaching
 
 ### Proficienies
-- Clojure/ClojureScript - HoneySQL, Ring, Reagent, Reframe, Pathom, Shadow-cljs
+- Clojure/ClojureScript - HoneySQL, Ring, Reagent, Reframe, Pathom, Specter, Shadow-cljs
 - Python - Django ecosystem (Oscar, Wagtail, DRF), data processing, automation, Jupyter notebooks
 - JavaScript/Node - React, Redux, modern tooling (Vite, etc.)
 - Data Engineering - ETL pipelines, Kafka, Kinesis, SQS
