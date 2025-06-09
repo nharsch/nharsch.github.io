@@ -16,14 +16,18 @@ And even if we did have enough data, it's also _very expensive_ to train a found
 
 ### 2. Fine Tuning
 What if we could _teach_ an already smart foundational model to do a more specific task, like answering customer service questions? **Fine Tuning** allows us to take a foundational (open source) model, like Qwen or LLama, and _additionally train_ it on domain specific data.
+
 For example, to train an LLM to be a customer service chatbot, we could prepare a dataset of customer service questions and known answers, then fine tune the base model with that additional data. This _should_ result in a model that is tuned to respond as a reasonably smart customer service rep.
+
 This is still fairly expensive to do, as it requires GPU compute time to fine tune a model. Results will also vary depending on the size of the training dataset, and the quality of questions/answers.
 Also, because the base model knows about much more than the fine tuning dataset, it can answers questions well outside the scope of its task. For example, with some nefarious **prompt engineering**, a user may be able to get the chatbot to generate instructions on how to build a bomb. 😬
 
 ### 3. Prompt Engineering and Prompt Stuffing
 For some tasks, a foundational model may be good enough so long as all the relevant information is in the incoming prompt. 
+
 For example, say we want to build a customer service chatbot that answers questions about a specific product, and say we have a 10 page customer service manual for that product. We could just stick the entire text of the customer service manual into the prompt before the customer query. This is often called **prompt stuffing**. 
 We can instruct the LLM to respond in the manner of a customer service agent. For example, we could ask "Respond in the manner of a polite and helpful customer service agent. Use a warm and professional tone." This is often called **prompt engineering**.
+
 The format of the prompt we send to the LLM may look like this:
 - general instructions on the task
 	- Act as a customer service agent. Use a friendly and professional tone.
@@ -34,8 +38,8 @@ The format of the prompt we send to the LLM may look like this:
 	- example FAQ -> answers
 - customer query
 	- whatever the customer just asked
-The costs for this approach are _much_ smaller (in some cases free) compared to training. 
-This approach has the same potential risks as using a fine tuned model, in that clever prompt engineering can get the chatbot to go "off script".
+
+The costs for this approach are _much_ smaller (in some cases free) compared to training. This approach has the same potential risks as using a fine tuned model, in that clever prompt engineering can get the chatbot to go "off script".
 
 ### 4. Retrieval Augmented Generation (RAG)
 What if our relevant data is too big to fit into a prompt? Say we are building a customer service chatbot not for just one product, but for a brand's entire product catalog. Let's say the customer service resources are available on a searchable web portal. We could use this search portal to provide relevant search results to help generate specific answers to a customer question.
@@ -93,6 +97,7 @@ print("This is some example code")
 
 If you're reading this on github, you will see the above statement formatted as monospace. (You can view the raw source of this file to see what this looks like before being rendered). 
 This works because github supports Markdown rendering. We could also use a Markdown rendering engine to display the code block as monospace in a chatbot app. 
+
 Also, because this format cleanly delineates code from prose, we could parse the LLM output to look for code snippets, and stuff that code into an web based IDE tool to provide the user the option to interact with that code. We could also (with extreme caution) execute code written by the LLM.
 We could also ask the LLM to generate valid HTML, which we could render to the end user in a HTML preview app.
 
