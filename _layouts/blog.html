@@ -12,19 +12,8 @@
     <![endif]-->
     </style>
   </head>
-    <div class="wrapper">
-
-      {{ content }}
-
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% else %}
-        <a href="nigelharsch.com">Home</a>
-        {% endif %}
-        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
-      </footer>
-    </div>
+    <div class="wrapper">{{ content }}</div>
+    <div><a href="nigelharsch.com">Home</a></div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <!-- Mermaid rendering -->
     <script>
