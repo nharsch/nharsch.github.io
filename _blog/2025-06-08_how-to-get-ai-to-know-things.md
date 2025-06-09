@@ -4,7 +4,7 @@ date: 2025-06-08
 layout: blog
 ---
 
-**Note**: This article was written for a mostly non-technical audience. 
+**Note**: This article was written for a mostly non-technical audience. While researching AI vendor partners with some clients, we wanted to demystify how LLMs are actually used in production, without using too much jargon.
  
 ## How to get AI to "know things"
 State of the art LLMs are trained on huge datasets, often at the size of "the whole internet". This allows the LLMs to answer questions with broad and deep expertise. However, any information _not in the training dataset_ is not "known" to the LLM. This poses a problem if we want the LLM to answer questions about a specific dataset.
