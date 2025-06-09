@@ -18,11 +18,15 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <p>
+            {{ site.programmer-description | default: site.github.project_tagline }}
+        </p>
+        <div><a href="https://nigelharsch.com">Home</a></div>
     </header>
 
     <div class="wrapper">{{ content }}</div>
 
-    <div><a href="https://nigelharsch.com">Home</a></div>
+
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <!-- Mermaid rendering -->
