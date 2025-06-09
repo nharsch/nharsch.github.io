@@ -44,6 +44,7 @@ The costs for this approach are _much_ smaller (in some cases free) compared to 
 ### 4. Retrieval Augmented Generation (RAG)
 What if our relevant data is too big to fit into a prompt? Say we are building a customer service chatbot not for just one product, but for a brand's entire product catalog. Let's say the customer service resources are available on a searchable web portal. We could use this search portal to provide relevant search results to help generate specific answers to a customer question.
 Here's how that might work:
+
 ```mermaid
 sequenceDiagram 
 	participant User 
@@ -64,6 +65,7 @@ sequenceDiagram
 	ToolUse->>LLM: Tool Use middleware returns retrieved manual text as additional context for the LLM to use to answer user
 	LLM->>User: respond to user with speicfic help pulled from additional context, also provide link to document
 ```
+
 This approach requires some kind of **Tool Use Middleware** that can look at LLM output and determine if/when the LLM is "asking" to search or retrieve a document.
 This approach also **assumes that relevant data is available and queryable**. If this isn't the case, this approach will require building such a tool.
 This approach is basically an extension of **prompt stuffing**, where we add relevant context _into_ the chat context. 

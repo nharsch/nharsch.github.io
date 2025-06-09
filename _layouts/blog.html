@@ -13,8 +13,17 @@
     <![endif]-->
     </style>
   </head>
+    <header>
+    <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+    </header>
+
     <div class="wrapper">{{ content }}</div>
+
     <div><a href="https://nigelharsch.com">Home</a></div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <!-- Mermaid rendering -->
     <script>
