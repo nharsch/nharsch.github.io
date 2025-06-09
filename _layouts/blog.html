@@ -10,38 +10,17 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    <style>
-      @media screen and (min-width: 960px) {
-        .rule30-container {
-          /* position: fixed; */
-          /* bottom: 20px; */
-          /* right: 10px; */
-          z-index: 100;
-          transition: opacity 0.3s ease;
-        }
-
-        #rule30-canvas {
-          opacity: 0.05;
-        }
-      }
-      @media screen and (max-width: 960px) {
-        .rule30-container {
-          display: none;
-        }
-      }
     </style>
   </head>
     <div class="wrapper">
-      <section>
 
       {{ content }}
 
-
-      </section>
       <footer>
-
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% else %}
+        <a href="nigelharsch.com">Home</a>
         {% endif %}
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
