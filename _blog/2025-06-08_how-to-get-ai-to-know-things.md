@@ -97,17 +97,19 @@ For example, chatbots can output code snippets. Often, chatbots will use the sta
 print("This is some example code")
 ```
 
-If you're reading this on github, you will see the above statement formatted as monospace. (You can view the raw source of this file to see what this looks like before being rendered). 
-This works because github supports Markdown rendering. We could also use a Markdown rendering engine to display the code block as monospace in a chatbot app. 
+Because this format cleanly delineates code from prose, we could parse the LLM output to look for code snippets, and stuff that code into an web based IDE tool to provide the user the option to interact with that code. We could also (with extreme caution) execute code written by the LLM.
 
-Also, because this format cleanly delineates code from prose, we could parse the LLM output to look for code snippets, and stuff that code into an web based IDE tool to provide the user the option to interact with that code. We could also (with extreme caution) execute code written by the LLM.
-We could also ask the LLM to generate valid HTML, which we could render to the end user in a HTML preview app.
+For example, our LLM could also generate [LaTex](https://www.wikiwand.com/en/articles/LaTeX) syntax to display mathmatical notation.
 
-```HTML
-<h2>Hello world!</h2>
+```
+  \begin{align}
+    E_0 &= mc^2 \\
+    E &= \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}
+  \end{align} 
+
 ```
 
-Our LLM could also generate [LaTex](https://www.wikiwand.com/en/articles/LaTeX) syntax to display mathmatical notation.
+-->
 
 {% raw %}
 $$
@@ -119,6 +121,16 @@ $$
 {% endraw %}
 
 We could ask the LLM to use [Mermaid Diagram Syntax](https://mermaid.js.org/intro/syntax-reference.html) to render diagrams.
+
+```
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
+
+-->
 
 ```mermaid
 graph LR
@@ -136,6 +148,8 @@ product,unit cost,unit profit
 super cola, 0.99, 0.90
 diet super cola, 0.99, 0.95
 ```
+
+-->
 
 | product |unit cost | unit profit |
 |---------|----------|-------------|
