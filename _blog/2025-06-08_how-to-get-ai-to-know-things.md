@@ -121,15 +121,13 @@ $$
 We could ask the LLM to use [Mermaid Diagram Syntax](https://mermaid.js.org/intro/syntax-reference.html) to render diagrams.
 
 ```mermaid
-
-stateDiagram-v2
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
 ```
+
 
 We could also ask the LLM to generate tabular data in the CSV format, which we can then display as a table and/or import into a spreadsheet application
 
