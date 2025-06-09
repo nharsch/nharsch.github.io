@@ -50,7 +50,11 @@ I also make [music](/music)
   - Implements semantic search for [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) using [transormers.js](https://huggingface.co/docs/transformers.js/en/index)
 - [CSV -> Mermaid ERD Generator](https://github.com/nharsch/mermaid-erd-generator)
   - Data forensics tool for recunstructing data schemas and relationships based on CSV data dumps
-  
+
+### Writing
+{% for post in site.blog %}
+- [{{ post.title | default: post.name | remove: '.md' }}]({{ post.url }})
+{% endfor %}
 
 ### Currently Learnng / Exploring
 - Stream Processing

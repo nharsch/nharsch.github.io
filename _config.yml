@@ -32,3 +32,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Blog
+collections:
+  blog:
+    output: true
+    permalink: /blog/:name/
