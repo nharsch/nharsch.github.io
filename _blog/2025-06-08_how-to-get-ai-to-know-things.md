@@ -3,6 +3,8 @@ title: How to get AI to know things
 date: 2025-06-08
 layout: blog
 ---
+
+**Note**: This article was written for a mostly non-technical audience. 
  
 ## How to get AI to "know things"
 State of the art LLMs are trained on huge datasets, often at the size of "the whole internet". This allows the LLMs to answer questions with broad and deep expertise. However, any information _not in the training dataset_ is not "known" to the LLM. This poses a problem if we want the LLM to answer questions about a specific dataset.
@@ -84,24 +86,33 @@ Tool use (often called "function calling") allows AI models to interact with ext
 ### 2. Rendering markup languages and other text based formats
 Chatbots output text, but that text isn't limited to English prose.
 For example, chatbots can output code snippets. Often, chatbots will use the standard [Markdown Code Block syntax](https://www.markdownguide.org/basic-syntax/#code-blocks-1) to render code snippets like so:
+
 ```python
 print("This is some example code")
 ```
+
 If you're reading this on github, you will see the above statement formatted as monospace. (You can view the raw source of this file to see what this looks like before being rendered). 
 This works because github supports Markdown rendering. We could also use a Markdown rendering engine to display the code block as monospace in a chatbot app. 
 Also, because this format cleanly delineates code from prose, we could parse the LLM output to look for code snippets, and stuff that code into an web based IDE tool to provide the user the option to interact with that code. We could also (with extreme caution) execute code written by the LLM.
 We could also ask the LLM to generate valid HTML, which we could render to the end user in a HTML preview app.
+
 ```HTML
 <h2>Hello world!</h2>
 ```
+
 Our LLM could also generate [LaTex](https://www.wikiwand.com/en/articles/LaTeX) syntax to display mathmatical notation.
+
+{% raw %}
 $$
   \begin{align}
     E_0 &= mc^2 \\
     E &= \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}
   \end{align} 
 $$
+{% endraw %}
+
 We could ask the LLM to use [Mermaid Diagram Syntax](https://mermaid.js.org/intro/syntax-reference.html) to render diagrams.
+
 ```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -110,6 +121,7 @@ flowchart TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 ```
+
 We could also ask the LLM to generate tabular data in the CSV format, which we can then display as a table and/or import into a spreadsheet application
 
 ```csv
