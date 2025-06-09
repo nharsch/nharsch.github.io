@@ -7,19 +7,16 @@ I'm a data/backend focused full stack web developer, most comfortable with Cloju
 
 I began my career in the arts and media, working at fine arts galleries, an independent record label, live theatre, then a media distribution company. I started learning to code to [Automate the Boring Stuff](https://automatetheboringstuff.com/), which quickly led to a career as a Fullstack web Developer, then Data Engineer, now Technical Project Manager. 
 
-I've owned a variety of high visibility projects, helping to scope, plan and deliver major features. I've developed several high visibility features for major ecommerce sites, as well as deep data engineering work for vital business processes. 
-
-I'm currently learning how to build tools to support Agentic AI to automate business processes for clients.
+I've owned a variety of high visibility projects, helping to scope, plan and deliver major features. I'm currently building data systems to enable clients to integrate with AI tools.
 
 ## Programming Resume
 - [View My Resume](https://github.com/nharsch/resume/blob/master/programming-resume.md)
 - [Download My Resume](https://github.com/nharsch/resume/raw/master/NigelHarsch-resume-programming.pdf)
 
 ## My Skillset
-Though I'm familiar with most of the modern web stack, my strengths are in backend and data domains.
 
 ### Core Strengths
-- **Backend Architecture and Data Systems** - API design, data flow optimization
+- **Backend Architecture and Data Systems** - API design, data architecture, data flow optimization
 - **Technical Leadership** - Feature discovery, scoping, technical documentation, delegation, training
 - **Cross-functional Communication** - Translating between technical and business domains, teaching
 
@@ -33,13 +30,11 @@ Though I'm familiar with most of the modern web stack, my strengths are in backe
 - SQL - Complex queries, performance optimization, data modeling
 - Technical Project Management - Requirements gathering, stakeholder communication, delivery
 
-
 ## Interests
 Since I have a background in audio production, I tend to think of data problems in terms of _signal flow_. I often reach for tools that fit this mental model, which has lead to an interest in:
-- Functional Reactive Programming
-- the Redux state pattern
-- CQRS, Event sourcing, stream processing
-- Systems Thinking
+- Redux state pattern
+- Functional Programming
+- CQRS, Event Sourcing, Stream Processing
 
 I'm also a big fan of Clojure and the Clojure community.
 
@@ -58,11 +53,11 @@ I also make [music](/music)
   
 
 ### Currently Learnng / Exploring
+- Stream Processing
+  - [Rama](https://redplanetlabs.com/learn-rama)
 - AI workflows and agents
 - Data Visualization & Reporting 
   - Grafana, D3.js, Power BI, Metabase 
-- Stream Processing
-  - [Rama](https://redplanetlabs.com/learn-rama)
 - Local First Web Apps
   - [Instant DB](https://www.instantdb.com/)
   - [Ink and Switch](https://www.inkandswitch.com/)
