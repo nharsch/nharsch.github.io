@@ -115,6 +115,7 @@ We could ask the LLM to use [Mermaid Diagram Syntax](https://mermaid.js.org/intr
 
 ```mermaid
 flowchart TD
+
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
