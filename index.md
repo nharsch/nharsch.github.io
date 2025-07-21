@@ -46,10 +46,11 @@ I also make [music](/music)
 - JSON Schema Form Builder: [demo](https://cedar-pine-consulting.github.io/json-form-builder/) - [repo](https://github.com/Cedar-Pine-Consulting/json-form-builder  )
   - Drag and Drop visual form builder application, based on top of [RJSF](https://github.com/rjsf-team/react-jsonschema-form)
   - Demo version of app built for LA based non profit for Cedar Pine Consulting, where I was Principle Architect
+- PERT Canvas: [demo](https://nigelharsch.com/pert-canvas) - [repo](https://github.com/nharsch/pert-canvas)
+  - Visualize project tasks as a live dependency graph, inspired by [PERT Charts](https://www.wikipedia.com/en/articles/Program_evaluation_and_review_technique)
+  - Built with ClojureScript and [React Flow](https://reactflow.dev/)
 - [Mkdocs Semantic Search](https://github.com/nharsch/mkdocs-semantic-search/tree/main)
   - Implements semantic search for [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) using [transormers.js](https://huggingface.co/docs/transformers.js/en/index)
-- [CSV -> Mermaid ERD Generator](https://github.com/nharsch/mermaid-erd-generator)
-  - Data forensics tool for recunstructing data schemas and relationships based on CSV data dumps
 
 ### Writing
 {% for post in site.blog %}
