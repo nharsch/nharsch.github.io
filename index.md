@@ -56,6 +56,8 @@ I also make [music](/music)
 {% for post in site.blog %}
 - [{{ post.title | default: post.name | remove: '.md' }}]({{ post.url }})
 {% endfor %}
+- [Agile Talk](/where-agile-comes-from-talk)
+
 
 ### Currently Learnng / Exploring
 - Stream Processing
